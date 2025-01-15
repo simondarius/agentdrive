@@ -3,9 +3,8 @@ requests
 pillow
 opencv-python==4.9.0.80
 numpy
-tensorflow
-tensorflow-probability
-tensorflow-hub
+tensorflow==2.15.0
+tensorflow-probability==0.23.0
 gymnasium==0.29.0
 ultralytics==8.2.84
 ultralytics-thop==2.0.5
