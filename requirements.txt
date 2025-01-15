@@ -17,6 +17,5 @@ transformers==4.31.0
 browsergym-miniwob
 playwright
 pickle5
-sqlite3
 pathlib
 
