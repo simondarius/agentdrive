@@ -12,6 +12,7 @@ tf_keras==2.15.0
 torch
 seaborn
 openai
+datasets
 asyncio
 transformers
 browsergym-miniwob
